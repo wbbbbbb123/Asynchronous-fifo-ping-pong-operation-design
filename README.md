@@ -6,7 +6,7 @@
 
 4、写入fifo状态转换：
 
-![image](https://user-images.githubusercontent.com/71707557/183387512-fe753911-8ee2-4832-9df9-1857815f56af.png)
+![image](https://user-images.githubusercontent.com/71707557/183433642-9b70262f-eb4a-44f7-9bf4-8f383385b307.png)
 
 5、读出fifo状态转换：
 
